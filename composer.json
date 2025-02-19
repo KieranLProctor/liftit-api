@@ -10,6 +10,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
+        "dedoc/scramble": "^0.12.9",
         "essa/api-tool-kit": "^2.1",
         "laravel/framework": "^11.31",
         "laravel/sanctum": "^4.0",
